@@ -14,6 +14,9 @@ in designing the Dashboard.
 The whole explanation of the project can be found in the below Youtube link 
 <br>
 link :- https://www.youtube.com/watch?v=czZMoxHA3ts
+<br>
+<br>
+<img src="https://github.com/nilay121/Covid-19-Analysis-using-python-and-PowerBI/blob/main/covid.png">
 
 
 
